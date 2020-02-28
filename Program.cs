@@ -14,6 +14,8 @@ Console.WriteLine("Conflict change2");
             Console.WriteLine("Conflict change3");
             Console.WriteLine("Conflict change4");
              Console.WriteLine("Noraml check in");
+            
+Console.WriteLine("Merge changes from central repo");
             Console.WriteLine("Merge changes from local repo");
 
             Console.Read();
