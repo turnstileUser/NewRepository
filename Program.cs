@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
              Console.WriteLine("Added in browser way");
+Console.WriteLine("Added in local repo");
             Console.Read();
         }
     }
