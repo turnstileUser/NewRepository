@@ -13,6 +13,7 @@ Console.WriteLine("Added in local repo");
 Console.WriteLine("Conflict change2");
             Console.WriteLine("Conflict change3");
             Console.WriteLine("Conflict change4");
+             Console.WriteLine("Noraml check in");
 
             Console.Read();
         }
