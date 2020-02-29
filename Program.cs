@@ -17,6 +17,8 @@ Console.WriteLine("Conflict change2");
             
 Console.WriteLine("Merge changes from central repo");
             Console.WriteLine("Merge changes from local repo");
+            Console.WriteLine("New change 22-01");
+
             
 
               Console.WriteLine("New change 22");
